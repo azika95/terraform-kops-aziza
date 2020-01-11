@@ -1,0 +1,3 @@
+variable "max" {}
+variable "min" {}
+
